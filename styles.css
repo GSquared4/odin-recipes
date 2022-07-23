@@ -1,0 +1,21 @@
+#page {
+    background-color: purple;
+    text-align: center;
+}
+
+
+.homepage-title {
+    color: gold;
+    font-family: sans-serif, 'times new roman';
+}
+
+.recipe-font {
+    color: gold;
+    font-size: 24px;
+    text-align: center;
+}
+
+.ingredient-font {
+    color: red;
+}
+
